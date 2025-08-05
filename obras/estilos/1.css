@@ -3,6 +3,12 @@
   padding: 0;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
 body {
   font-family: 'Montserrat', sans-serif;
   color: #070000;
@@ -153,5 +159,6 @@ footer {
   .like + p {
     margin-right: 20px; 
   }
+  
 }
 
